@@ -1,0 +1,28 @@
+_repo: A-History-of-the-Inquisition-of-Spain--vol.-4_44209
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44209-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lea, Henry Charles
+    alias: Lea, H. C. (Henry Charles)
+    birthdate: 1825
+    deathdate: 1909
+    gutenberg_agent_id: '40029'
+    url: http://www.gutenberg.org/2009/agents/40029
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Charles_Lea
+description: ''
+gutenberg_issued: '2013-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44209'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Inquisition -- Spain'
+title: A History of the Inquisition of Spain; vol. 4
+url: http://www.gutenberg.org/ebooks/44209
