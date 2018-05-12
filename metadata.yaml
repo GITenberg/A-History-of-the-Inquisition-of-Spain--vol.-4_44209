@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40029
     wikipedia: http://en.wikipedia.org/wiki/Henry_Charles_Lea
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44209#A-History-of-the-Inquisition-of-Spain--vol.-4
 gutenberg_issued: '2013-11-17'
 gutenberg_type: Text
 identifiers:
